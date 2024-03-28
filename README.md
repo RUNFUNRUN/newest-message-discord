@@ -1,11 +1,17 @@
-To install dependencies:
-```sh
-bun install
+# NEWEST MESSAGE DISCORD
+
+get the newest message from a discord channel
+
+## Usage
+
+```bash
+cp .env.example .env
+# edit .env
 ```
 
-To run:
-```sh
-bun run dev
+```bash
+# install dependencies
+bun i
+# run the server
+bun dev
 ```
-
-open http://localhost:3000
